@@ -1,19 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
 
-@media screen and (max-width:1300px){
-    .First{
-        flex-wrap: wrap;
-    }
-    .second{
-        flex-wrap: wrap-reverse;
-    }
-    .third{
-        flex-wrap: wrap;
-    }
-    .fourth{
-        flex-wrap: wrap;
-    }
-}
 * {
     margin: 0;
     padding: 0;
